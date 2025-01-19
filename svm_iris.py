@@ -9,16 +9,11 @@ Original file is located at
 # **Classification SVM Project**
 
 
-Team Members
+Team Members - University of South Dakota
 
-1. Lalitha Priya Bijja - 101168225
-2. Uday Kumar Dasari - 101166798
-3. Sindhuri Alle - 1011
-4. Jaya Shruthi Chowdhary -
-5. Samatha -
-6. S
-7. Dheeraj Reddem -
-8. Varsha Reddy -
+1. Lalitha Priya Bijja
+2. Uday Kumar Dasari 
+
 
 ---
 """
